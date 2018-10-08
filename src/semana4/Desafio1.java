@@ -6,9 +6,8 @@ package semana4;
  * 		- tamanho do produto
  * 		- cor
  * 		- marca
- *
  * 	Uma classe ”estoque” que tem um objeto de produto
- * 		-quantidade
+ * 		- quantidade
  * 		- id
  * 		- produto
  * 	 Na main devemos poder

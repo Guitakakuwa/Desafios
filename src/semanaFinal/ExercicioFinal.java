@@ -1,4 +1,4 @@
-package semana8-9;
+package semanaFinal;
 
 /**
  Fazer a automatização de uma compra de 3 itens em um site de compras como mercado livre, Centauro ou NetShoes.
